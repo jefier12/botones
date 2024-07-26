@@ -1,0 +1,112 @@
+.boton{
+  padding: 12px;
+  background-color:blueviolet ;
+  border: solid 1px blueviolet;
+  border-radius: 5px;
+  margin: 0 auto;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 16px;
+  gap: 20px;
+  align-items: center;
+  font-weight: 300;
+  display: inline flex;
+  color: #fff;
+}
+.boton:hover{
+  background-color: #fff;
+  color: blueviolet;
+}
+.boton--borde{
+  border: solid 1px blueviolet;
+  background-color: #fff;
+  color: blueviolet;
+}
+.boton--borde:hover{
+  border: solid 1px #fff;
+  background-color: blueviolet;
+  color: #fff;
+}
+
+
+
+.boton--pink{
+  background-color:var(--color1) ;
+  border: solid 1px var(--color1);
+}
+.boton--pink:hover{
+  background-color: #fff;
+  color: var(--color1);
+}
+.boton--rosa{
+  border: solid 1px ;
+  background-color: #fff;
+  color:var(--color1);
+}
+.boton--rosa:hover{
+  border: solid 1px #fff;
+  background-color: var(--color1);
+  color: #fff;
+}
+
+
+.boton--green{
+  background-color:var(--color2) ;
+  border: solid 1px var(--color2);
+}
+.boton--green:hover{
+  background-color: #fff;
+  color: var(--color2);
+}
+.boton--verde{
+  border: solid 1px ;
+  background-color: #fff;
+  color:var(--color2);
+}
+.boton--verde:hover{
+  border: solid 1px #fff;
+  background-color: var(--color2);
+  color: #fff;
+}
+
+
+
+.boton--blue{
+  background-color:var(--color3) ;
+  border: solid 1px var(--color3);
+}
+.boton--blue:hover{
+  background-color: #fff;
+  color: var(--color3);
+}
+.boton--azul{
+  border: solid 1px ;
+  background-color: #fff;
+  color:var(--color3);
+}
+.boton--azul:hover{
+  border: solid 1px #fff;
+  background-color: var(--color3);
+  color: #fff;
+}
+
+
+.boton--orange{
+  background-color:var(--color4) ;
+  border: solid 1px var(--color4);
+}
+.boton--orange:hover{
+  background-color: #fff;
+  color: var(--color4);
+}
+.boton--naranja{
+  border: solid 1px ;
+  background-color: #fff;
+  color:var(--color4);
+}
+.boton--naranja:hover{
+  border: solid 1px #fff;
+  background-color: var(--color4);
+  color: #fff;
+}

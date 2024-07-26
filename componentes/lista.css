@@ -1,0 +1,13 @@
+.lista{
+  width: 400px;
+  background-color: var(--color1);
+}
+.lista_item{
+  border-bottom:  solid 1px var(--color1) ;
+}
+.lista_texto{
+
+}
+.lista_icono{
+
+}
